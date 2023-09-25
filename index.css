@@ -1,5 +1,5 @@
 :root{
-    --light-blue: #8DADCB;
+    --light-blue: #d5e1ef;
 }
 *, *::before, *::after{
     box-sizing: border-box;
@@ -42,20 +42,3 @@ p{
     opacity: 0.5;
     font-weight: 500;
 }
-
-/*Media queries*/
-/*@media (max-width: 414px) and (min-width: 200px){
-    .qr-code-wrapper{
-        width: 270px;
-        height: 540px;
-    }
-    .qr-code{
-        width: 240px;
-        height: 240px;
-    }
-}
-/*@media (max-width: 850px) and (min-width: 539px){
-    .qr-code-wrapper{
-        height: 60vh;
-    }
-}*/
