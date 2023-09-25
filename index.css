@@ -15,14 +15,14 @@ body{
     justify-content: center;
 }
 .qr-code-wrapper{
-    width: 280px;
-    height: 450px;
+    width: 300px;
+    height: 500px;
     background-color: #fff;
     border-radius: 15px;
 }
 .qr-code{
-    height: 250px;
-    width: 250px;
+    height: 270px;
+    width: 270px;
     background-image: url(./images/image-qr-code.png);
     background-size: cover;
     margin: auto;
@@ -31,10 +31,10 @@ body{
 }
 .text{
     font-family: sans-serif;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 h2{
-    font-size: 19px;
+    font-size: 20px;
     opacity: 0.9;
 }
 p{
